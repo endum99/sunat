@@ -35,17 +35,16 @@ button {
 }
 .foto h1{
     font-family: "Festive", cursive;
-    color: #0081a8;
+    color: red;
     font-size: 1.5em;
     margin-top: 10px;
-    background-color: white;
+
 }
 .foto h4 {
     margin-top: 10px;
     font-family: "Akaya Kanadaka", system-ui;
-    color: #0081a8;
+    color: red;
     font-size: 1em;
-    background-color: white;
 }
 
 /* isi */
