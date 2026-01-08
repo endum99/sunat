@@ -27,7 +27,6 @@ button {
     background-size: cover;
     background-position: center;
     text-align: center;
-    padding: 20px;
 }
 .foto img {
     background-color: red;
@@ -37,7 +36,7 @@ button {
 .foto h1{
     font-family: "Festive", cursive;
     color: #0081a8;
-    font-size: 2.5em;
+    font-size: 1.5em;
     margin-top: 10px;
     background-color: white;
 }
@@ -45,7 +44,7 @@ button {
     margin-top: 10px;
     font-family: "Akaya Kanadaka", system-ui;
     color: #0081a8;
-    font-size: 1.5em;
+    font-size: 1em;
     background-color: white;
 }
 
@@ -102,11 +101,10 @@ button {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 100px;
+    padding: 20px;
     margin-top: 10px;
 }
 .gift h3 {
-    margin-bottom: 20px;
     color: red;
 }
 
